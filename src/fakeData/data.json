@@ -1,0 +1,142 @@
+[
+    {
+      "_id": "603c46f831b04404ea81259a",
+      "name": "Zaheer Khan",
+      "picture": "https://i.ibb.co/vVYxx3B/Filmi-Tadka-the-Big-Daddy-to-tame-all-the-bitches-and-pompous-assess-has-arrived-We-are-about-the-bl.jpg",
+      "salary": 49979,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8288e359490c1facb",
+      "name": "Gautam Gambhir",
+      "picture": "https://i.ibb.co/26M6KQ4/Filmi-Tadka-the-Big-Daddy-to-tame-all-the-bitches-and-pompous-assess-has-arrived-We-are-about-the-bl.jpg",
+      "salary": 21932,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f81db4868c7ee44643",
+      "name": "Suresh Raina",
+      "picture": "https://i.ibb.co/pdqx6QL/260px-Suresh-Raina1.jpg" ,
+      "salary": 21642,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f80fc8b3cdf64bcb87",
+      "name": "Virender Sehwag",
+      "picture": "https://i.ibb.co/M1PH830/Filmi-Tadka-the-Big-Daddy-to-tame-all-the-bitches-and-pompous-assess-has-arrived-We-are-about-the-bl.jpg",
+      "salary": 31710,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f849cf955cedde8e2c",
+      "name": "Anil Kumble",
+      "picture": "https://i.ibb.co/pWv6ydP/The-former-Cricketer-Shri-Anil-Kumble-calls-on-the-Prime-Minister-Shri-Narendra-Modi-in-New-Delhi-on.jpg",
+      "salary": 49197,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f81e07938ba7491c00",
+      "name": "Rahul Dravid",
+      "picture": "https://i.ibb.co/3RNJ0Sm/Rahul-Dravid-at-GQ-Men-Of-The-Year-2012-AWARD.jpg",
+      "salary": 17448,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f84987c958d543266a",
+      "name": "Sourav Ganguly",
+      "picture": "https://i.ibb.co/jbFnMq3/lesser-known-facts-main.jpg",
+      "salary": 15858,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8e4ab1a80ef14479d",
+      "name": "Ajay Jadeja",
+      "picture": "https://i.ibb.co/ZTcLYcG/Ajay-jadega.jpg",
+      "salary": 10825,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f881ada69aa48b603f",
+      "name": "Sachin Tendulkar",
+      "picture": "https://i.ibb.co/y8BdvPR/India-s-Sachin-Tendulkar-achonolodge-the-crowd-after-he-scored-century-against-England-in-the-World.jpg",
+      "salary": 11805,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f802f40f4836c94d44",
+      "name": "Mohammad Azharuddin",
+      "picture": "https://i.ibb.co/WGP7ht7/Mohammad-Azharuddin.jpg" ,
+      "salary": 49692,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f837c0e0e07a92d779",
+      "name": "Krishnamachari Srikkanth",
+      "picture": "https://i.ibb.co/1Q7v4Dt/Former-Indian-cricketer-K-Srikkanth-calls-on-the-Prime-Minister-Shri-Narendra-Modi-in-New-Delhi-on-D.jpg",
+      "salary": 10215,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8aa133b208c5cc17d",
+      "name": "Kapil Dev",
+      "picture":"https://i.ibb.co/SKV1h8c/Kapil-Dev-for-a-cricket-show-for-Aajtak.jpg",
+      "salary": 30946,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8817c6f2f1f22778f",
+      "name": "Dilip Vengsarkar",
+      "picture": "https://i.ibb.co/dWd8gqf/Dilip-Vengsarkar.jpg",
+      "salary": 35342,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f814f8ae51154bbc1d",
+      "name": "Ravi Shastri",
+      "picture": "https://i.ibb.co/CK4G2kT/260px-Ravi-Shastri.jpg",
+      "salary": 11398,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f838915f3134bdae32",
+      "name": "Mohinder Amarnath",
+      "picture": "https://i.ibb.co/L6Rpp4J/Mohinder-Amarnath.jpg" ,
+      "salary": 45011,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8f7e28b62359bf2f4",
+      "name": "Syed Kirmani",
+      "picture": "https://i.ibb.co/L9zszMJ/Syed-Mujtaba-Hussain-Kirmani.jpg",
+      "salary": 13420,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8d5d5e7c3d1d2f672",
+      "name": "Kapil Dev",
+      "picture": "https://i.ibb.co/SKV1h8c/Kapil-Dev-for-a-cricket-show-for-Aajtak.jpg",
+      "salary": 25865,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f8743290afbfd44069",
+      "name": "Gundappa Viswanath",
+      "picture":"https://i.ibb.co/MpMrXZH/gundappa-viswanath-1564740952.jpg",
+      "salary": 49911,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f880d383e6f970cb02",
+      "name": "Sunil Gavaskar",
+      "picture":"https://i.ibb.co/pvgHXjB/Sunny-Gavaskar-Sahara.jpg" ,
+      "salary": 49982,
+      "gender": "male"
+    },
+    {
+      "_id": "603c46f85d607467bbfe84c2",
+      "name": "Dinesh Karthik",
+      "picture": "https://i.ibb.co/mB7CdnM/260px-Dinesh-Karthik.jpg",
+      "salary": 26766,
+      "gender": "male"
+    }
+  ]

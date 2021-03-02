@@ -1,0 +1,21 @@
+.header{
+    text-align : center;
+}
+.header nav{
+    background-image: linear-gradient(to right, #030363 0%, #032b0c  51%, #043341  100%);
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    color: lightseagreen;
+    margin-right: 10px;
+}
+.header img{
+    height:100px;
+}
+.logo{
+    padding:20px;
+    padding-right: 500px;
+}
